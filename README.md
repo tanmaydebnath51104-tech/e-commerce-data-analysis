@@ -4,6 +4,10 @@ A self-contained Python data-analytics project that processes the
 **E Commerce Dataset.csv** and produces charts, summaries, and
 business recommendations.
 
+## Data Source
+
+https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset
+
 ---
 
 ## Project Structure
